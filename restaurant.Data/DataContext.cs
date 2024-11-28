@@ -8,6 +8,7 @@ namespace restaurant.Data
     {
         public DbSet<Client> clients {  get; set; }
         public DbSet<Order> orders { get; set; }
+        public DbSet<Delivery> deliveries { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
