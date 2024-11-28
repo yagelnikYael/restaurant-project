@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Group A\\C#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22257F1-DA96-47F4-9F66-0114F3472C8F}|restaurant.Data\\restaurant.Data.csproj|t:\\group a\\c#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantproject\\restaurant.data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22257F1-DA96-47F4-9F66-0114F3472C8F}|restaurant.Data\\restaurant.Data.csproj|solutionrelative:restaurant.data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22257F1-DA96-47F4-9F66-0114F3472C8F}|restaurant.Data\\restaurant.Data.csproj|t:\\group a\\c#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantproject\\restaurant.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22257F1-DA96-47F4-9F66-0114F3472C8F}|restaurant.Data\\restaurant.Data.csproj|solutionrelative:restaurant.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22257F1-DA96-47F4-9F66-0114F3472C8F}|restaurant.Data\\restaurant.Data.csproj|t:\\group a\\c#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantproject\\restaurant.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22257F1-DA96-47F4-9F66-0114F3472C8F}|restaurant.Data\\restaurant.Data.csproj|solutionrelative:restaurant.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantProject\\restaurant.Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "restaurant.Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantProject\\restaurant.Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "restaurant.Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:47:00.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantProject\\restaurant.Data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "restaurant.Data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantProject\\restaurant.Data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "restaurant.Data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:45:23.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantProject\\restaurant.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "restaurant.Data\\DataContext.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D9\u05E2\u05DC \u05D9\u05D2\u05DC\u05E0\u05D9\u05E7\\restaurantProject\\restaurant.Data\\DataContext.cs",
+              "RelativeToolTip": "restaurant.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:40:09.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
