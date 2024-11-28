@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj": {}
+    "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj": {}
   },
   "projects": {
-    "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj": {
+    "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj",
+        "projectUniqueName": "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj",
         "projectName": "restaurant.Core",
-        "projectPath": "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj",
+        "projectPath": "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj",
         "packagesPath": "C:\\Users\\יגלניק\\.nuget\\packages\\",
-        "outputPath": "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Core\\obj\\",
+        "outputPath": "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,14 +58,14 @@
         }
       }
     },
-    "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj": {
+    "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj",
+        "projectUniqueName": "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj",
         "projectName": "restaurant.Service",
-        "projectPath": "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj",
+        "projectPath": "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Service\\restaurant.Service.csproj",
         "packagesPath": "C:\\Users\\יגלניק\\.nuget\\packages\\",
-        "outputPath": "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Service\\obj\\",
+        "outputPath": "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -86,8 +86,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj": {
-                "projectPath": "E:\\י''ד\\NET CORE\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj"
+              "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj": {
+                "projectPath": "C:\\Users\\יגלניק\\Desktop\\י''ד\\restaurantProject\\restaurant.Core\\restaurant.Core.csproj"
               }
             }
           }
